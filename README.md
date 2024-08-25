@@ -35,11 +35,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
-I sometimes had challenges with syntax since I was using javascript functionality I hadn't interacted with before
+I sometimes had challenges with syntax since I was using javascript functionality I hadn't interacted with before such as the spread function
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Temi Ijisesan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
